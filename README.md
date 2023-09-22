@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Elbert-Nebres/Elbert-Nebres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am ENebres
 
-Here are some ideas to get you started:
+A IT Student of BSU-Lipa Campus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Have a Background on  programing Languages :
+
+-Python 
+
+-C++
+
+-Vb.net
+
+-C#
+
+Learning:
+
+-java script 
+
+-CSS
